@@ -1,0 +1,16 @@
+---
+title: "Fecha_siembra_obs"
+author: "Rodriguez, I"
+execute:
+  echo: false
+editor: visual
+output: true
+warning: false
+editor_options: 
+  chunk_output_type: inline
+format:
+  html:
+    code-fold: false
+    code-tools: false
+---
+
